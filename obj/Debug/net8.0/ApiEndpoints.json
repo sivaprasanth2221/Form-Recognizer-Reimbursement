@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Form_Recognizer_Reimbursement.Controllers.ReimbursementController",
+    "Method": "AnalyzeReceipt",
+    "RelativePath": "api/reimbursement/analyze",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "receipt",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

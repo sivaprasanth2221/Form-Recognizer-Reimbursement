@@ -1,0 +1,47 @@
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\appsettings.Development.json
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\appsettings.json
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Form Recognizer Reimbursement.staticwebassets.endpoints.json
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Form Recognizer Reimbursement.exe
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Form Recognizer Reimbursement.deps.json
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Form Recognizer Reimbursement.runtimeconfig.json
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Form Recognizer Reimbursement.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Form Recognizer Reimbursement.pdb
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Azure.AI.FormRecognizer.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Azure.Core.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\System.Text.Json.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.csproj.AssemblyReference.cache
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.AssemblyInfoInputs.cache
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.AssemblyInfo.cs
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.csproj.CoreCompileInputs.cache
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.MvcApplicationPartsAssemblyInfo.cs
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.MvcApplicationPartsAssemblyInfo.cache
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\scopedcss\bundle\Form Recognizer Reimbursement.styles.css
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\staticwebassets.build.json
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\staticwebassets.development.json
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Rec.0C8A69B7.Up2Date
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\refint\Form Recognizer Reimbursement.dll
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.pdb
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\Form Recognizer Reimbursement.genruntimeconfig.cache
+D:\ADIC -ZG\POC\Demo\OCR\Form Recognizer Reimbursement\obj\Debug\net8.0\ref\Form Recognizer Reimbursement.dll

@@ -1,0 +1,45 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Form Recognizer Reimbursement",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/reimbursement/analyze": {
+      "post": {
+        "tags": [
+          "Reimbursement"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "receipt"
+                ],
+                "type": "object",
+                "properties": {
+                  "receipt": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "receipt": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
